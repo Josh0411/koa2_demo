@@ -1,0 +1,19 @@
+{
+  "name": "koademo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "forever start -o out.log -e err.log -c nodemon app.js --exitcrash"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "ejs": "^2.6.1",
+    "koa": "^2.5.1",
+    "koa-router": "^7.4.0",
+    "koa-static": "^5.0.0",
+    "koa-views": "^6.1.4",
+    "nodemon": "^1.17.5"
+  }
+}

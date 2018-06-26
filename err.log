@@ -1,0 +1,342 @@
+/Users/linfeng03/Documents/Try/koa/app.js:13
+    throw new Error('this is bad');
+    ^
+
+Error: this is bad
+    at Timeout.setInterval [as _onTimeout] (/Users/linfeng03/Documents/Try/koa/app.js:13:11)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+/Users/linfeng03/Documents/Try/koa/app.js:13
+    throw new Error('this is bad');
+    ^
+
+Error: this is bad
+    at Timeout.setInterval [as _onTimeout] (/Users/linfeng03/Documents/Try/koa/app.js:13:11)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+/Users/linfeng03/Documents/Try/koa/app.js:13
+    throw new Error('this is bad');
+    ^
+
+Error: this is bad
+    at Timeout.setInterval [as _onTimeout] (/Users/linfeng03/Documents/Try/koa/app.js:13:11)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+/Users/linfeng03/Documents/Try/koa/app.js:13
+    throw new Error('this is bad');
+    ^
+
+Error: this is bad
+    at Timeout.setInterval [as _onTimeout] (/Users/linfeng03/Documents/Try/koa/app.js:13:11)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+/Users/linfeng03/Documents/Try/koa/app.js:13
+    throw new Error('this is bad');
+    ^
+
+Error: this is bad
+    at Timeout.setInterval [as _onTimeout] (/Users/linfeng03/Documents/Try/koa/app.js:13:11)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+/Users/linfeng03/Documents/Try/koa/app.js:13
+    throw new Error('this is bad');
+    ^
+
+Error: this is bad
+    at Timeout.setInterval [as _onTimeout] (/Users/linfeng03/Documents/Try/koa/app.js:13:11)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+/Users/linfeng03/Documents/Try/koa/app.js:13
+    throw new Error('this is bad');
+    ^
+
+Error: this is bad
+    at Timeout.setInterval [as _onTimeout] (/Users/linfeng03/Documents/Try/koa/app.js:13:11)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+/Users/linfeng03/Documents/Try/koa/app.js:13
+    throw new Error('this is bad');
+    ^
+
+Error: this is bad
+    at Timeout.setInterval [as _onTimeout] (/Users/linfeng03/Documents/Try/koa/app.js:13:11)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+/Users/linfeng03/Documents/Try/koa/app.js:13
+    throw new Error('this is bad');
+    ^
+
+Error: this is bad
+    at Timeout.setInterval [as _onTimeout] (/Users/linfeng03/Documents/Try/koa/app.js:13:11)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+/Users/linfeng03/Documents/Try/koa/app.js:13
+    throw new Error('this is bad');
+    ^
+
+Error: this is bad
+    at Timeout.setInterval [as _onTimeout] (/Users/linfeng03/Documents/Try/koa/app.js:13:11)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+/Users/linfeng03/Documents/Try/koa/app.js:13
+    throw new Error('this is bad');
+    ^
+
+Error: this is bad
+    at Timeout.setInterval [as _onTimeout] (/Users/linfeng03/Documents/Try/koa/app.js:13:11)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+/Users/linfeng03/Documents/Try/koa/app.js:13
+    throw new Error('this is bad');
+    ^
+
+Error: this is bad
+    at Timeout.setInterval [as _onTimeout] (/Users/linfeng03/Documents/Try/koa/app.js:13:11)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+/Users/linfeng03/Documents/Try/koa/app.js:13
+    throw new Error('this is bad');
+    ^
+
+Error: this is bad
+    at Timeout.setInterval [as _onTimeout] (/Users/linfeng03/Documents/Try/koa/app.js:13:11)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+/Users/linfeng03/Documents/Try/koa/app.js:13
+    throw new Error('this is bad');
+    ^
+
+Error: this is bad
+    at Timeout.setInterval [as _onTimeout] (/Users/linfeng03/Documents/Try/koa/app.js:13:11)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+/Users/linfeng03/Documents/Try/koa/app.js:13
+    throw new Error('this is bad');
+    ^
+
+Error: this is bad
+    at Timeout.setInterval [as _onTimeout] (/Users/linfeng03/Documents/Try/koa/app.js:13:11)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+/Users/linfeng03/Documents/Try/koa/app.js:13
+    throw new Error('this is bad');
+    ^
+
+Error: this is bad
+    at Timeout.setInterval [as _onTimeout] (/Users/linfeng03/Documents/Try/koa/app.js:13:11)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+/Users/linfeng03/Documents/Try/koa/app.js:13
+    throw new Error('this is bad');
+    ^
+
+Error: this is bad
+    at Timeout.setInterval [as _onTimeout] (/Users/linfeng03/Documents/Try/koa/app.js:13:11)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+/Users/linfeng03/Documents/Try/koa/app.js:13
+    throw new Error('this is bad');
+    ^
+
+Error: this is bad
+    at Timeout.setInterval [as _onTimeout] (/Users/linfeng03/Documents/Try/koa/app.js:13:11)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+/Users/linfeng03/Documents/Try/koa/app.js:13
+    throw new Error('this is bad');
+    ^
+
+Error: this is bad
+    at Timeout.setInterval [as _onTimeout] (/Users/linfeng03/Documents/Try/koa/app.js:13:11)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+/Users/linfeng03/Documents/Try/koa/app.js:13
+    throw new Error('this is bad');
+    ^
+
+Error: this is bad
+    at Timeout.setInterval [as _onTimeout] (/Users/linfeng03/Documents/Try/koa/app.js:13:11)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+/Users/linfeng03/Documents/Try/koa/app.js:13
+    throw new Error('this is bad');
+    ^
+
+Error: this is bad
+    at Timeout.setInterval [as _onTimeout] (/Users/linfeng03/Documents/Try/koa/app.js:13:11)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+/Users/linfeng03/Documents/Try/koa/app.js:13
+    throw new Error('this is bad');
+    ^
+
+Error: this is bad
+    at Timeout.setInterval [as _onTimeout] (/Users/linfeng03/Documents/Try/koa/app.js:13:11)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+/Users/linfeng03/Documents/Try/koa/app.js:13
+    throw new Error('this is bad');
+    ^
+
+Error: this is bad
+    at Timeout.setInterval [as _onTimeout] (/Users/linfeng03/Documents/Try/koa/app.js:13:11)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+/Users/linfeng03/Documents/Try/koa/app.js:13
+    throw new Error('this is bad');
+    ^
+
+Error: this is bad
+    at Timeout.setInterval [as _onTimeout] (/Users/linfeng03/Documents/Try/koa/app.js:13:11)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+/Users/linfeng03/Documents/Try/koa/app.js:13
+    throw new Error('this is bad');
+    ^
+
+Error: this is bad
+    at Timeout.setInterval [as _onTimeout] (/Users/linfeng03/Documents/Try/koa/app.js:13:11)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+/Users/linfeng03/Documents/Try/koa/app.js:13
+    throw new Error('this is bad');
+    ^
+
+Error: this is bad
+    at Timeout.setInterval [as _onTimeout] (/Users/linfeng03/Documents/Try/koa/app.js:13:11)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+/Users/linfeng03/Documents/Try/koa/app.js:13
+    throw new Error('this is bad');
+    ^
+
+Error: this is bad
+    at Timeout.setInterval [as _onTimeout] (/Users/linfeng03/Documents/Try/koa/app.js:13:11)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+/Users/linfeng03/Documents/Try/koa/app.js:13
+    throw new Error('this is bad');
+    ^
+
+Error: this is bad
+    at Timeout.setInterval [as _onTimeout] (/Users/linfeng03/Documents/Try/koa/app.js:13:11)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+/Users/linfeng03/Documents/Try/koa/app.js:13
+    throw new Error('this is bad');
+    ^
+
+Error: this is bad
+    at Timeout.setInterval [as _onTimeout] (/Users/linfeng03/Documents/Try/koa/app.js:13:11)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+/Users/linfeng03/Documents/Try/koa/app.js:13
+    throw new Error('this is bad');
+    ^
+
+Error: this is bad
+    at Timeout.setInterval [as _onTimeout] (/Users/linfeng03/Documents/Try/koa/app.js:13:11)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+/Users/linfeng03/Documents/Try/koa/app.js:13
+    throw new Error('this is bad');
+    ^
+
+Error: this is bad
+    at Timeout.setInterval [as _onTimeout] (/Users/linfeng03/Documents/Try/koa/app.js:13:11)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+/Users/linfeng03/Documents/Try/koa/app.js:13
+    throw new Error('this is bad');
+    ^
+
+Error: this is bad
+    at Timeout.setInterval [as _onTimeout] (/Users/linfeng03/Documents/Try/koa/app.js:13:11)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+/Users/linfeng03/Documents/Try/koa/app.js:13
+    throw new Error('this is bad');
+    ^
+
+Error: this is bad
+    at Timeout.setInterval [as _onTimeout] (/Users/linfeng03/Documents/Try/koa/app.js:13:11)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+/Users/linfeng03/Documents/Try/koa/app.js:13
+    throw new Error('this is bad');
+    ^
+
+Error: this is bad
+    at Timeout.setInterval [as _onTimeout] (/Users/linfeng03/Documents/Try/koa/app.js:13:11)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+/Users/linfeng03/Documents/Try/koa/app.js:13
+    throw new Error('this is bad');
+    ^
+
+Error: this is bad
+    at Timeout.setInterval [as _onTimeout] (/Users/linfeng03/Documents/Try/koa/app.js:13:11)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+/Users/linfeng03/Documents/Try/koa/app.js:13
+    throw new Error('this is bad');
+    ^
+
+Error: this is bad
+    at Timeout.setInterval [as _onTimeout] (/Users/linfeng03/Documents/Try/koa/app.js:13:11)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+/Users/linfeng03/Documents/Try/koa/app.js:13
+    throw new Error('this is bad');
+    ^
+
+Error: this is bad
+    at Timeout.setInterval [as _onTimeout] (/Users/linfeng03/Documents/Try/koa/app.js:13:11)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+/Users/linfeng03/Documents/Try/koa/app.js:13
+    throw new Error('this is bad');
+    ^
+
+Error: this is bad
+    at Timeout.setInterval [as _onTimeout] (/Users/linfeng03/Documents/Try/koa/app.js:13:11)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
